@@ -2,6 +2,7 @@
 	display: flex;
 	justify-content: left;
 	padding-top: 25px;
+	color: white;
 }
 
 .articles-logo {
@@ -19,11 +20,13 @@
 	height: 100%;
 	margin: 0;
 	padding-top: 120px;
+	color: white;
 }
 
 .articles-container {
 	display: flex;
 	flex-direction: column;
+	color: white;
 }
 
 .articles-wrapper {
@@ -39,11 +42,13 @@
 	padding-bottom: 20px;
 	border-left: 2px solid #f4f4f5;
 	width: 100%;
+	color: white;
 }
 
 @media (max-width: 1024px) {
 	.articles-title {
 		width: 100% !important;
+		color: white;
 	}
 
 	.articles-subtitle {

@@ -5,7 +5,7 @@
 }
 
 ::-webkit-scrollbar-track {
-	background-color: #f1f1f1;
+	background-color: #7e7b7b;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -18,7 +18,7 @@
 }
 
 .page-content {
-	background-color: white;
+	background-color: rgb(61, 60, 60);
 	position: relative;
 }
 
@@ -29,8 +29,8 @@
 	top: 0;
 	bottom: 0;
 	width: calc((100% - 1200px) / 2);
-	background-color: #fafafa;
-	border: 1px solid #f4f4f5;
+	background-color: #595656;
+	border: 1px solid #57575d;
 }
 
 .page-content:before {
@@ -54,6 +54,7 @@
 	font-size: 45px;
 	font-weight: 700;
 	width: 70%;
+	color: white;
 }
 
 .subtitle {

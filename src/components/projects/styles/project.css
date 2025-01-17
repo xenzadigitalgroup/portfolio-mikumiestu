@@ -5,14 +5,16 @@
 	border-radius: 20px;
 	opacity: 0.8;
 	height: 100%;
+	color: white;
 }
 
 .project a {
 	text-decoration: none;
+	color: white;
 }
 
 .project:hover {
-	background: #fafafa;
+	background: #9f9f9f;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
@@ -24,6 +26,7 @@
 
 .project-container {
 	padding: 30px;
+	color: white
 }
 
 .project-logo {
@@ -36,11 +39,11 @@
 
 .project-title {
 	font-family: var(--secondary-font);
-	color: var(--primary-color);
 	font-size: 16px;
 	padding-top: 15px;
 	margin-bottom: 1em;
 	font-weight: 700;
+	color: white;
 }
 
 .project-description {

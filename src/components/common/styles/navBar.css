@@ -1,7 +1,7 @@
 @import "../../../data/styles.css";
 
 .nav-container {
-	margin: 0;
+	margin-left: 30px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -21,7 +21,7 @@
 	height: 40px;
 	padding-left: 0%;
 	padding-right: 0%;
-	background: #fff;
+	background: #555555;
 	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
 	border-radius: 40px;
 }
