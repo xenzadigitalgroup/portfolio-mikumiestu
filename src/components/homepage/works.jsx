@@ -21,7 +21,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Xenza Digital Group</div>
 							<div className="work-subtitle">
-								Web Developer
+								CEO & Web Developer
 							</div>
 							<div className="work-duration">2021 - Present</div>
 						</div>
