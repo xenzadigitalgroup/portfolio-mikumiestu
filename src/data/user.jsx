@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Reactfolio by Mikumiestu",
 		name: "ZAKI MUSHTHAFA BILLAH",
-		email: "mikumiestu@technovagroup.my.id",
+		email: "mikumiestu@technovagroupinc.com",
 		logo: "../logo.png",
 	},
 

@@ -34,7 +34,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Dev Sphere Academy</div>
 							<div className="work-subtitle">
-								Web Developer
+								CEO & Web Developer
 							</div>
 							<div className="work-duration">2024 - Present</div>
 						</div>
